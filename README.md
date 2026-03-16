@@ -4,7 +4,7 @@
 
 I'm Md Monjur Bakth Mazumder, a highly experienced Software Engineer & Lead Frontend Developer at Qrinux, with over 3 years of hands-on experience in the industry. I lead the frontend team in building dynamic, user-focused web applications that are both visually compelling and technically sound. With a strong grasp of software development principles, I enjoy solving complex challenges and delivering high-quality, tailored solutions. I'm deeply committed to continuous growth—refining my technical skills and enhancing team collaboration to drive successful project outcomes.
 
-![cover](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/refs/heads/main/image/cover2.png)
+<!--  ![cover](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/refs/heads/main/image/cover2.png) -->
 
 ## Skills
 
