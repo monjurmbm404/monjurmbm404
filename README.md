@@ -35,6 +35,7 @@ I’m currently pursuing my **BSc in Computer Science & Engineering (CSE)** afte
 ## 🛠️ Tech Stack
 
 ### **Languages**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
@@ -43,6 +44,7 @@ I’m currently pursuing my **BSc in Computer Science & Engineering (CSE)** afte
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 ### **Frontend**
+
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css)
@@ -51,25 +53,30 @@ I’m currently pursuing my **BSc in Computer Science & Engineering (CSE)** afte
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000?style=for-the-badge&logo=vercel)
 
 ### **Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
 
 ### **State Management**
+
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-000?style=for-the-badge&logo=redux)
 ![RTK Query](https://img.shields.io/badge/RTK_Query-000?style=for-the-badge&logo=redux)
 ![Context API](https://img.shields.io/badge/Context_API-000?style=for-the-badge&logo=react)
 
 ### **Databases**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 ### **Authentication**
+
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
 ![Passport.js](https://img.shields.io/badge/Passport.js-000?style=for-the-badge&logo=passport)
 ![Clerk](https://img.shields.io/badge/Clerk-000?style=for-the-badge&logo=clerk)
 
 ### **Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visual-studio-code)
@@ -82,26 +89,33 @@ I’m currently pursuing my **BSc in Computer Science & Engineering (CSE)** afte
 
 <p align="center">
   <a href="https://github.com/monjurBakthMazumder">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=monjurBakthMazumder&theme=merko&border=7F3FBF&background=0D1117" alt="GitHub Streak" width="100%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=monjurBakthMazumder&theme=merko&hide_border=false&border_radius=10&background=0D1117" alt="GitHub Streak Stats" width="100%"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/monjurBakthMazumder">
-    <img src="https://github-readme-stats.vercel.app/api?username=monjurBakthMazumder&show_icons=true&theme=highcontrast" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=monjurBakthMazumder&show_icons=true&theme=highcontrast&hide_border=false&border_radius=10" alt="GitHub Stats" width="100%"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/monjurBakthMazumder">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monjurBakthMazumder&theme=outrun" width="100%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monjurBakthMazumder&theme=outrun" alt="GitHub Profile Summary" width="100%"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/monjurBakthMazumder"> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monjurBakthMazumder&theme=outrun" width="49.5%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monjurBakthMazumder&theme=outrun&utcOffset=6" width="49.5%"/>
+  <a href="https://github.com/monjurBakthMazumder">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monjurBakthMazumder&theme=outrun" alt="Top Languages by Repo" width="49%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=monjurBakthMazumder&theme=outrun" alt="Top Languages by Commit" width="49%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/monjurBakthMazumder">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monjurBakthMazumder&theme=outrun" alt="GitHub Stats Card" width="49%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monjurBakthMazumder&theme=outrun&utcOffset=6" alt="Productive Time" width="49%"/>
   </a>
 </p>
 
@@ -116,6 +130,7 @@ I’m currently pursuing my **BSc in Computer Science & Engineering (CSE)** afte
 </p>
 
 ### **Current Focus Areas**
+
 - C++ STL
 - Two Pointers & Sliding Window
 - Binary Search
@@ -146,11 +161,11 @@ Currently learning and building in:
 ## 🎓 Education
 
 - **BSc in Computer Science & Engineering (CSE)**  
-  *Sylhet International University*  
+  _Sylhet International University_  
   **2025 – Present**
 
 - **Diploma in Computer Science and Technology**  
-  *Moulvibazar Polytechnic Institute*  
+  _Moulvibazar Polytechnic Institute_  
   **2020 – 2024**
 
 ---
