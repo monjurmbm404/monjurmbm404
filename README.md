@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Engr. Md Monjur Bakth Mazumder 👋</h1>
-<h3 align="center">Software Engineer | Frontend-Focused Full Stack Developer | Problem Solver | AI/ML Learner</h3>
+<h3 align="center">Frontend-Focused Full Stack Developer | Problem Solver | AI/ML Learner</h3>
 
 <p align="center">
   <a href="mailto:monjurmbm404@gmail.com">Email</a> •
   <a href="https://github.com/monjurBakthMazumder" target="_blank">GitHub</a> •
+  <a href="https://mdmonjurbakthmazumder.netlify.app" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/md-monjur-bakth-mazumder/" target="_blank">LinkedIn</a> •
   <a href="https://codeforces.com/profile/monjurmbm404" target="_blank">Codeforces</a> •
   <a href="https://www.codechef.com/users/monjurmbm404" target="_blank">CodeChef</a> •
@@ -14,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** and **frontend-focused full stack developer** passionate about building modern, scalable, and user-centered web applications.
+I'm a **frontend-focused full stack developer** passionate about building modern, scalable, and user-centered web applications.
 
 I enjoy solving real-world problems through **clean code**, strong **software engineering practices**, and continuous learning. Alongside development, I’m actively strengthening my foundation in **problem solving, algorithms, data structures, mathematics, and AI/ML**.
 
@@ -24,7 +25,7 @@ I’m currently pursuing my **BSc in Computer Science & Engineering (CSE)** afte
 
 ## 🎯 Current Focus
 
-- 💻 Building scalable web applications with **React, Next.js, TypeScript, Node.js, and Express.js**
+- 💻 Developing modern web applications with **React, Next.js, TypeScript, Node.js, and Express.js**
 - 🧠 Practicing **Problem Solving, Data Structures, and Algorithms**
 - 🤖 Learning **AI/ML**, from mathematical foundations to machine learning and deep learning
 - 🎓 Strengthening my academic foundation through **BSc in CSE**
@@ -50,7 +51,7 @@ I’m currently pursuing my **BSc in Computer Science & Engineering (CSE)** afte
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000?style=for-the-badge&logo=vercel)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=for-the-badge)
 
 ### **Backend**
 
@@ -73,7 +74,7 @@ I’m currently pursuing my **BSc in Computer Science & Engineering (CSE)** afte
 
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
 ![Passport.js](https://img.shields.io/badge/Passport.js-000?style=for-the-badge&logo=passport)
-![Clerk](https://img.shields.io/badge/Clerk-000?style=for-the-badge&logo=clerk)
+![Clerk](https://img.shields.io/badge/Clerk-000?style=for-the-badge)
 
 ### **Tools & Platforms**
 
@@ -129,6 +130,10 @@ I’m currently pursuing my **BSc in Computer Science & Engineering (CSE)** afte
   <a href="https://leetcode.com/u/monjurmbm404/" target="_blank">LeetCode</a>
 </p>
 
+- **Codeforces:** Newbie (**829** max)
+- **CodeChef:** 1★ (**1222** max)
+- **Focus:** Competitive programming, algorithmic thinking, and consistent contest practice
+
 ### **Current Focus Areas**
 
 - C++ STL
@@ -145,7 +150,7 @@ I’m currently pursuing my **BSc in Computer Science & Engineering (CSE)** afte
 
 ## 🤖 AI/ML Learning Journey
 
-Currently learning and building in:
+Currently learning, practicing, and building a strong foundation in:
 
 - Mathematics for Machine Learning
 - Python for AI/ML
@@ -155,6 +160,16 @@ Currently learning and building in:
 - Deep Learning with PyTorch
 - CNN, RNN, LSTM, and Transformers
 - Research Paper Reading & Applied Learning
+
+---
+
+## 🧩 What I'm Working On
+
+- Strengthening my **problem solving and competitive programming** foundation
+- Building a stronger base in **mathematics for AI/ML**
+- Improving my **software engineering and full stack development** skills
+- Studying toward stronger academic performance in **BSc in CSE**
+- Preparing for long-term growth in **research, intelligent systems, and advanced computing**
 
 ---
 
@@ -169,6 +184,7 @@ Currently learning and building in:
   **2020 – 2024**
 
 ---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -193,7 +209,6 @@ Currently learning and building in:
 </p>
 
 ---
-  
 
 ## ⚡ A Little More About Me
 
@@ -202,5 +217,3 @@ Currently learning and building in:
 - 🎯 Focused on growing at the intersection of **software engineering, algorithms, and intelligent systems**
 - 🤝 Open to **collaboration, internships, freelance work, and impactful opportunities**
 - ❤️ I enjoy building, learning, and improving through consistency and discipline
-
-
