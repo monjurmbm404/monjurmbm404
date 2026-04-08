@@ -169,24 +169,38 @@ Currently learning and building in:
   **2020 – 2024**
 
 ---
-
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-monjur-bakth-mazumder/" target="_blank">
-    <img height="75" src="https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/Linkedin.png">
+  <a href="mailto:monjurmbm404@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100090451115337" target="_blank">
-    <img height="75" src="https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/Facebook.png">
+  <a href="https://www.linkedin.com/in/md-monjur-bakth-mazumder/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/monjurBakthMazumder" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/monjurmbm404" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/monjurmbm404" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/monjurmbm404/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
 ---
+  
 
 ## ⚡ A Little More About Me
 
-- 🔭 Currently working as a **Software Engineer**
-- 🌱 Learning deeply in **AI/ML, Mathematics, and Computer Science**
-- 🎯 Focused on becoming stronger in **software engineering + problem solving + intelligent systems**
-- 🤝 Open to learning, collaboration, and meaningful opportunities
-- ❤️ I value discipline, growth, and building things that create real impact
+- 💻 Passionate about **Software Engineering, Web Development, and Problem Solving**
+- 🌱 Continuously learning in **AI/ML, Mathematics, and Computer Science**
+- 🎯 Focused on growing at the intersection of **software engineering, algorithms, and intelligent systems**
+- 🤝 Open to **collaboration, internships, freelance work, and impactful opportunities**
+- ❤️ I enjoy building, learning, and improving through consistency and discipline
+
+
