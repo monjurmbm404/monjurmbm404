@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Engr. Md Monjur Bakth Mazumder 👋</h1>
-<h3 align="center">Frontend-Focused Full Stack Developer | Problem Solver | AI/ML Learner</h3>
+<h3 align="center">Frontend-Focused Full Stack Developer | Competitive Programmer | AI/ML Learner</h3>
 
 <p align="center">
   <a href="mailto:monjurmbm404@gmail.com">Email</a> •
@@ -124,27 +124,66 @@ I’m currently pursuing my **BSc in Computer Science & Engineering (CSE)** afte
 
 ## 🧠 Problem Solving Profiles
 
-<p align="left">
-  <a href="https://codeforces.com/profile/monjurmbm404" target="_blank">Codeforces</a> •
-  <a href="https://www.codechef.com/users/monjurmbm404" target="_blank">CodeChef</a> •
-  <a href="https://leetcode.com/u/monjurmbm404/" target="_blank">LeetCode</a>
+<p align="center">
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/monjurmbm404" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+
+  <!-- Codeforces Dynamic Stats -->
+  <a href="https://codeforces.com/profile/monjurmbm404" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=monjurmbm404&theme=github_dark&showRating=true" alt="Codeforces Stats" />
+  </a>
 </p>
 
-- **Codeforces:** Newbie (**829** max)
-- **CodeChef:** 1★ (**1222** max)
-- **Focus:** Competitive programming, algorithmic thinking, and consistent contest practice
+<p align="center">
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/monjurmbm404" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/monjurmbm404/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <!-- LeetCode Dynamic Stats -->
+  <a href="https://leetcode.com/u/monjurmbm404/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/monjurmbm404?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/md_monjurmbm2001" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+
+  <!-- AtCoder -->
+  <a href="https://atcoder.jp/users/monjurmbm404" target="_blank">
+    <img src="https://img.shields.io/badge/AtCoder-Profile-FF0000?style=for-the-badge&logo=atcoder&logoColor=white" />
+  </a>
+
+  <!-- Codeforces Rating -->
+  <a href="https://cses.fi/user/406625/" target="_blank">
+    <img src="https://img.shields.io/badge/CSES-Profile-8A2BE2?style=for-the-badge&logo=cses&logoColor=white" />
+  </a>
+</p>
+ 
+</p>
 
 ### **Current Focus Areas**
 
-- C++ STL
+- C++ STL & Algorithm Mastery
 - Two Pointers & Sliding Window
-- Binary Search
-- Number Theory
+- Binary Search & Divide & Conquer
+- Number Theory & Modular Arithmetic
 - Bit Manipulation
-- Graphs & Trees
+- Graphs, Trees & BFS/DFS
 - Recursion & Backtracking
-- Segment Tree
+- Segment Tree & Fenwick Tree
 - Dynamic Programming
+- Advanced Problem Solving & Contest Practice
 
 ---
 
