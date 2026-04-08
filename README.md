@@ -121,18 +121,14 @@ I’m currently pursuing my **BSc in Computer Science & Engineering (CSE)** afte
 </p>
 
 ---
+
 ## 🧠 Problem Solving Profiles
 
 <p align="center">
 
 <!-- Codeforces -->
 <a href="https://codeforces.com/profile/monjurmbm404" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-829%20(NEWBIE)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-</a>
-
-<!-- Codeforces Dynamic Rating -->
-<a href="https://codeforces.com/profile/monjurmbm404" target="_blank">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=monjurmbm404&theme=github_dark&showRating=true" alt="Codeforces Stats" />
+  <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
 </a>
 
 <!-- CodeChef -->
@@ -143,11 +139,6 @@ I’m currently pursuing my **BSc in Computer Science & Engineering (CSE)** afte
 <!-- LeetCode -->
 <a href="https://leetcode.com/u/monjurmbm404/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
-
-<!-- LeetCode Dynamic Stats -->
-<a href="https://leetcode.com/u/monjurmbm404/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/monjurmbm404?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
 </a>
 
 <!-- HackerRank -->
@@ -167,18 +158,26 @@ I’m currently pursuing my **BSc in Computer Science & Engineering (CSE)** afte
 
 </p>
 
-### **Focus Areas**
+---
 
-- C++ STL & Algorithm Mastery  
-- Two Pointers & Sliding Window  
-- Binary Search & Divide & Conquer  
-- Number Theory & Modular Arithmetic  
-- Bit Manipulation  
-- Graphs, Trees & BFS/DFS  
-- Recursion & Backtracking  
-- Segment Tree & Fenwick Tree  
-- Dynamic Programming  
+### 🎯 Focus Areas
+
+- C++ STL & Algorithm Mastery
+- Two Pointers & Sliding Window
+- Binary Search & Divide & Conquer
+- Number Theory & Modular Arithmetic
+- Bit Manipulation
+- Graphs, Trees & BFS/DFS
+- Recursion & Backtracking
+- Segment Tree & Fenwick Tree
+- Dynamic Programming
 - Advanced Problem Solving & Contest Practice
+
+---
+
+<p align="center">
+  <em>Stay consistent, solve problems daily, and track your progress on all competitive platforms!</em>
+</p>
 
 ---
 
