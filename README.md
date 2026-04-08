@@ -132,9 +132,9 @@ I’m currently pursuing my **BSc in Computer Science & Engineering (CSE)** afte
 </a>
 
 <!-- CodeChef -->
-<a href="https://www.codechef.com/users/monjurmbm404" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-1★%20(1222%20max)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-</a>
+  <a href="https://www.codechef.com/users/monjurmbm404" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
 
 <!-- LeetCode -->
 <a href="https://leetcode.com/u/monjurmbm404/" target="_blank">
@@ -229,16 +229,7 @@ Currently learning, practicing, and building a strong foundation in:
   </a>
   <a href="https://github.com/monjurBakthMazumder" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/monjurmbm404" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/monjurmbm404" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/monjurmbm404/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+  </a> 
 </p>
 
 ---
