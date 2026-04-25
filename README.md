@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:monjurmbm404@gmail.com">Email</a> •
-  <a href="https://github.com/monjurBakthMazumder" target="_blank">GitHub</a> •
+  <a href="https://github.com/monjurmbm404" target="_blank">GitHub</a> •
   <a href="https://mdmonjurbakthmazumder.netlify.app" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/md-monjur-bakth-mazumder/" target="_blank">LinkedIn</a> •
   <a href="https://codeforces.com/profile/monjurmbm404" target="_blank">Codeforces</a> •
@@ -89,34 +89,34 @@ I’m currently pursuing my **BSc in Computer Science & Engineering (CSE)** afte
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/monjurBakthMazumder">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=monjurBakthMazumder&theme=merko&hide_border=false&border_radius=10&background=0D1117" alt="GitHub Streak Stats" width="100%"/>
+  <a href="https://github.com/monjurmbm404">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=monjurmbm404&theme=merko&hide_border=false&border_radius=10&background=0D1117" alt="GitHub Streak Stats" width="100%"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/monjurBakthMazumder">
-    <img src="https://github-readme-stats.vercel.app/api?username=monjurBakthMazumder&show_icons=true&theme=highcontrast&hide_border=false&border_radius=10" alt="GitHub Stats" width="100%"/>
+  <a href="https://github.com/monjurmbm404">
+    <img src="https://github-readme-stats.vercel.app/api?username=monjurmbm404&show_icons=true&theme=highcontrast&hide_border=false&border_radius=10" alt="GitHub Stats" width="100%"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/monjurBakthMazumder">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monjurBakthMazumder&theme=outrun" alt="GitHub Profile Summary" width="100%"/>
+  <a href="https://github.com/monjurmbm404">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monjurmbm404&theme=outrun" alt="GitHub Profile Summary" width="100%"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/monjurBakthMazumder">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monjurBakthMazumder&theme=outrun" alt="Top Languages by Repo" width="49%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=monjurBakthMazumder&theme=outrun" alt="Top Languages by Commit" width="49%"/>
+  <a href="https://github.com/monjurmbm404">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monjurmbm404&theme=outrun" alt="Top Languages by Repo" width="49%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=monjurmbm404&theme=outrun" alt="Top Languages by Commit" width="49%"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/monjurBakthMazumder">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monjurBakthMazumder&theme=outrun" alt="GitHub Stats Card" width="49%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monjurBakthMazumder&theme=outrun&utcOffset=6" alt="Productive Time" width="49%"/>
+  <a href="https://github.com/monjurmbm404">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monjurmbm404&theme=outrun" alt="GitHub Stats Card" width="49%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monjurmbm404&theme=outrun&utcOffset=6" alt="Productive Time" width="49%"/>
   </a>
 </p>
 
@@ -227,7 +227,7 @@ Currently learning, practicing, and building a strong foundation in:
   <a href="https://www.linkedin.com/in/md-monjur-bakth-mazumder/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/monjurBakthMazumder" target="_blank">
+  <a href="https://github.com/monjurmbm404" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a> 
 </p>
