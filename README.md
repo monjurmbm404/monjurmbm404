@@ -209,12 +209,16 @@ Currently learning, practicing, and building a strong foundation in:
 ## 🎓 Education
 
 - **BSc in Computer Science & Engineering (CSE)**  
-  _Sylhet International University_  
+  _[Sylhet International University (SIU)](https://siu.edu.bd/)_  
   **2025 – Present**
 
 - **Diploma in Computer Science and Technology**  
-  _Moulvibazar Polytechnic Institute_  
+  _[Moulvibazar Polytechnic Institute (MPI)](https://mpi.moulvibazar.gov.bd/)_  
   **2020 – 2024**
+
+- **Secondary School Certificate (SSC)**  
+  _[Shah Helal High School](https://www.shahhelalhs.edu.bd/)_  
+  **2018 – 2020**
 
 ---
 
