@@ -222,19 +222,39 @@ Currently learning, practicing, and building a strong foundation in:
 
 ---
 
-## 🌐 Connect With Me
+## Connect with Me
 
-<p align="center">
-  <a href="mailto:monjurmbm404@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-monjur-bakth-mazumder/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/monjurmbm404" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a> 
-</p>
+### Professional Profiles
+
+| Platform | Link |
+|:---|:---|
+| Portfolio | [monjurmbm404.github.io](https://monjurmbm404.github.io) |
+| GitHub | [monjurmbm404](https://github.com/monjurmbm404) |
+| LinkedIn | [monjurmbm404](https://www.linkedin.com/in/monjurmbm404) |
+| Medium | [@monjurmbm404](https://medium.com/@monjurmbm404) |
+
+### Competitive Programming
+
+| Platform | Link |
+|:---|:---|
+| Codeforces | [monjurmbm404](https://codeforces.com/profile/monjurmbm404) |
+| CodeChef | [monjurmbm404](https://www.codechef.com/users/monjurmbm404) |
+| LeetCode | [monjurmbm404](https://leetcode.com/u/monjurmbm404) |
+| VJudge | [monjurmbm404](https://vjudge.net/user/monjurmbm404) |
+
+### Social Media
+
+| Platform | Link |
+|:---|:---|
+| Facebook | [monjurmbm404](https://www.facebook.com/monjurmbm404) |
+| X (Twitter) | [@monjurmbm404](https://x.com/monjurmbm404) |
+| YouTube | [@monjurmbm404](https://youtube.com/@monjurmbm404) |
+
+### Contact Information
+
+| Type | Email |
+|:---|:---|
+| Professional | [monjurmbm404@gmail.com](mailto:monjurmbm404@gmail.com) |
 
 ---
 
